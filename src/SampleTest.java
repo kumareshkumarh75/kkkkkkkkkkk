@@ -1,12 +1,10 @@
 
 public class SampleTest {
 	private void kumaresh() {
-		System.out.println("12345678");
+		System.out.println("kums");
+		System.out.println("kumar");
 		
 
-	}
-	private void kumaresh1() {
-		System.out.println("hvjfbklfnl");
 	}
 
 }
