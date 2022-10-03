@@ -5,5 +5,8 @@ public class SampleTest {
 		
 
 	}
+	private void kumaresh1() {
+		System.out.println("hvjfbklfnl");
+	}
 
 }
